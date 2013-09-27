@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A</key>
+	<array>
+		<string>Al-2</string>
+		<string>arabinose</string>
+	</array>
+	<key>C</key>
+	<array>
+		<string>cinR&amp;HSL</string>
+		<string>CII</string>
+	</array>
+	<key>I</key>
+	<array>
+		<string>IPTG</string>
+	</array>
+	<key>L</key>
+	<array>
+		<string>LasR 3OC12HSL Complex</string>
+		<string>LasR P-AI-1</string>
+		<string>LuxR 3OC12HSL Complex</string>
+		<string>LasR&amp;PAI</string>
+		<string>LuxR in concert with HSL</string>
+		<string>LuxR</string>
+		<string>L-arabiNonese</string>
+		<string>lux pR</string>
+	</array>
+	<key>N</key>
+	<array>
+		<string>None</string>
+	</array>
+	<key>P</key>
+	<array>
+		<string>phosphorylated AgrA </string>
+		<string>Prm</string>
+		<string>P2 ogr/PSP3 pag/phiR73 delta</string>
+	</array>
+	<key>R</key>
+	<array>
+		<string>RhlR C4HSL Complex</string>
+		<string>RhIR </string>
+		<string>RhlR/C4-HSL</string>
+	</array>
+	<key>T</key>
+	<array>
+		<string>TetR</string>
+		<string>t7</string>
+	</array>
+</dict>
+</plist>

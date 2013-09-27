@@ -1,0 +1,5596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BBa_A340620</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_A340620</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>LuxR</string>
+		<key>structure</key>
+		<string>RBS_CDS_Ter_Ter_Pro</string>
+	</dict>
+	<key>BBa_B0011</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_B0011</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>bacterial terminators</string>
+		<key>Tag3</key>
+		<string>bidirectional</string>
+		<key>structure</key>
+		<string>Ter</string>
+	</dict>
+	<key>BBa_B0012</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_B0012</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>phage terminators</string>
+		<key>Tag3</key>
+		<string>forward</string>
+		<key>structure</key>
+		<string>Ter</string>
+	</dict>
+	<key>BBa_B0013</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_B0013</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>phage terminators</string>
+		<key>Tag3</key>
+		<string>forward</string>
+		<key>structure</key>
+		<string>Ter</string>
+	</dict>
+	<key>BBa_B0014</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_B0014</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>bacterial terminators</string>
+		<key>Tag3</key>
+		<string>bidirectional</string>
+		<key>structure</key>
+		<string>Ter_Ter</string>
+	</dict>
+	<key>BBa_B0015</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_B0015</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>bacterial terminators</string>
+		<key>Tag3</key>
+		<string>forward</string>
+		<key>structure</key>
+		<string>Ter_Ter</string>
+	</dict>
+	<key>BBa_B0016</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_B0016</string>
+		<key>Tag1</key>
+		<string>T7 RNAP specific</string>
+		<key>Tag2</key>
+		<string>bacterial terminators</string>
+		<key>Tag3</key>
+		<string>forward</string>
+		<key>structure</key>
+		<string>Ter</string>
+	</dict>
+	<key>BBa_B0017</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_B0017</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>bacterial terminators</string>
+		<key>Tag3</key>
+		<string>forward</string>
+		<key>structure</key>
+		<string>Ter_Ter</string>
+	</dict>
+	<key>BBa_B0021</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_B0021</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>bacterial terminators</string>
+		<key>Tag3</key>
+		<string>bidirectional</string>
+		<key>structure</key>
+		<string>Ter</string>
+	</dict>
+	<key>BBa_B0023</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_B0023</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>phage terminators</string>
+		<key>Tag3</key>
+		<string>reverse</string>
+		<key>structure</key>
+		<string>Ter</string>
+	</dict>
+	<key>BBa_B0030</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_B0030</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>RBS</string>
+		<key>structure</key>
+		<string>RBS</string>
+	</dict>
+	<key>BBa_B0031</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_B0031</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>RBS</string>
+		<key>structure</key>
+		<string>RBS</string>
+	</dict>
+	<key>BBa_B0032</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_B0032</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>RBS</string>
+		<key>structure</key>
+		<string>RBS</string>
+	</dict>
+	<key>BBa_B0033</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_B0033</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>RBS</string>
+		<key>structure</key>
+		<string>RBS</string>
+	</dict>
+	<key>BBa_B0034</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_B0034</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>RBS</string>
+		<key>structure</key>
+		<string>RBS</string>
+	</dict>
+	<key>BBa_B1003</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_B1003</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>artificial terminators</string>
+		<key>Tag3</key>
+		<string>forward</string>
+		<key>structure</key>
+		<string>Ter</string>
+	</dict>
+	<key>BBa_B1005</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_B1005</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>artificial terminators</string>
+		<key>Tag3</key>
+		<string>forward</string>
+		<key>structure</key>
+		<string>Ter</string>
+	</dict>
+	<key>BBa_B1006</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_B1006</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>artificial terminators</string>
+		<key>Tag3</key>
+		<string>forward</string>
+		<key>structure</key>
+		<string>Ter</string>
+	</dict>
+	<key>BBa_B1007</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_B1007</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>artificial terminators</string>
+		<key>Tag3</key>
+		<string>bidirectional</string>
+		<key>structure</key>
+		<string>Ter</string>
+	</dict>
+	<key>BBa_B1008</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_B1008</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>artificial terminators</string>
+		<key>Tag3</key>
+		<string>bidirectional</string>
+		<key>structure</key>
+		<string>Ter</string>
+	</dict>
+	<key>BBa_B1009</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_B1009</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>artificial terminators</string>
+		<key>Tag3</key>
+		<string>bidirectional</string>
+		<key>structure</key>
+		<string>Ter</string>
+	</dict>
+	<key>BBa_B1010</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_B1010</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>artificial terminators</string>
+		<key>Tag3</key>
+		<string>forward</string>
+		<key>structure</key>
+		<string>Ter</string>
+	</dict>
+	<key>BBa_C0024</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C0024</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>CDS </string>
+	</dict>
+	<key>BBa_C0040</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C0040</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_C0050</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C0050</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_C0051</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C0051</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_C0052</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C0052</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_C0053</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C0053</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_C0056</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C0056</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_C0060</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C0060</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_C0061</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C0061</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_C0062</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C0062</string>
+		<key>Tag1</key>
+		<string>multiple regulators</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_C0070</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C0070</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_C0071</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C0071</string>
+		<key>Tag1</key>
+		<string>multiple regulators</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_C0072</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C0072</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_C0073</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C0073</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_C0074</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C0074</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_C0075</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C0075</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_C0076</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C0076</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_C0077</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C0077</string>
+		<key>Tag1</key>
+		<string>activator</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_C0078</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C0078</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_C0079</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C0079</string>
+		<key>Tag1</key>
+		<string>activator</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_C0080</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C0080</string>
+		<key>Tag1</key>
+		<string>multiple regulators</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_C0082</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C0082</string>
+		<key>Tag1</key>
+		<string>other product</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>CDS </string>
+	</dict>
+	<key>BBa_C0083</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C0083</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_C0160</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C0160</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_C0161</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C0161</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_C0170</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C0170</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_C0171</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C0171</string>
+		<key>Tag1</key>
+		<string>multiple regulators</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_C0178</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C0178</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_C0179</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C0179</string>
+		<key>Tag1</key>
+		<string>activator</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_C0261</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C0261</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_C2001</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C2001</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string>fusion protein</string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>cds_cds</string>
+	</dict>
+	<key>BBa_C2006</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_C2006</string>
+		<key>Tag1</key>
+		<string>other product</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_E0020</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_E0020</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_E0030</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_E0030</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_E1010</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_E1010</string>
+		<key>Tag1</key>
+		<string>RFP Family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_E2050</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_E2050</string>
+		<key>Tag1</key>
+		<string>RFP Family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_E5501</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_E5501</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_F1610</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_F1610</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>sender only</string>
+		<key>structure</key>
+		<string>RBS_CDS_Ter_Ter</string>
+	</dict>
+	<key>BBa_F2620</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_F2620</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>positive signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_CDS_Ter_Pro</string>
+	</dict>
+	<key>BBa_F2621</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_F2621</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>positive signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_CDS_Ter_Ter_Pro</string>
+	</dict>
+	<key>BBa_F2622</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_F2622</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>positive signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_CDS_Ter_Ter_Pro</string>
+	</dict>
+	<key>BBa_I0462</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I0462</string>
+		<key>Tag1</key>
+		<string>multiple regulators</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_I0466</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I0466</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>sender only</string>
+		<key>structure</key>
+		<string>RBS_CDS_Ter_Ter</string>
+	</dict>
+	<key>BBa_I11021</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I11021</string>
+		<key>Tag1</key>
+		<string>other product</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>CDS </string>
+	</dict>
+	<key>BBa_I11031</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I11031</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>CDS </string>
+	</dict>
+	<key>BBa_I13018</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I13018</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>negative signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_CDS_Ter_Ter</string>
+	</dict>
+	<key>BBa_I13202</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I13202</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>negative signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_CDS_Ter_Ter</string>
+	</dict>
+	<key>BBa_I13207</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I13207</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>multiple signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_CDS_Ter_Ter_Pro_RBS_CDS_Ter_Ter_Pro_RBS_CDS_Ter_Ter</string>
+	</dict>
+	<key>BBa_I13211</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I13211</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>positive signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_CDS_Ter_Ter_Pro_RBS_CDS_Ter_Ter</string>
+	</dict>
+	<key>BBa_I13261</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I13261</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>negative signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_CDS_Ter_Ter_Pro_RBS_CDS_Ter_Ter</string>
+	</dict>
+	<key>BBa_I13262</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I13262</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>positive signal</string>
+		<key>structure</key>
+		<string>RBS_CDS_Ter_Ter_Pro</string>
+	</dict>
+	<key>BBa_I13263</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I13263</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>positive signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_CDS_Ter_Ter_Pro_RBS_CDS_Ter_Ter</string>
+	</dict>
+	<key>BBa_I13272</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I13272</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>positive signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_CDS_Ter_Ter_Pro_RBS_EYFP_Ter_Ter</string>
+	</dict>
+	<key>BBa_I13458</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I13458</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>pro_cds</string>
+	</dict>
+	<key>BBa_I13502</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I13502</string>
+		<key>Tag1</key>
+		<string>RFP Family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_I13503</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I13503</string>
+		<key>Tag1</key>
+		<string>RFP Family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_I14015</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I14015</string>
+		<key>Tag1</key>
+		<string>TetR repressive promoter</string>
+		<key>Tag2</key>
+		<string>LasI/LasR</string>
+		<key>Tag3</key>
+		<string>bacterial promoters</string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_I14016</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I14016</string>
+		<key>Tag1</key>
+		<string>lambda cI repressive promoter</string>
+		<key>Tag2</key>
+		<string>LasI/LasR</string>
+		<key>Tag3</key>
+		<string>bacterial promoters</string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_I14017</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I14017</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>RhII/RhIR</string>
+		<key>Tag3</key>
+		<string>bacterial promoters</string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_I14018</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I14018</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>medium promoters</string>
+		<key>Tag3</key>
+		<string>Resistance gene</string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_I14033</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I14033</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>medium promoters</string>
+		<key>Tag3</key>
+		<string>Resistance gene</string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_I14034</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I14034</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>medium promoters</string>
+		<key>Tag3</key>
+		<string>Resistance gene</string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_I14044</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I14044</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_I1466</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I1466</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>sender only</string>
+		<key>structure</key>
+		<string>RBS_CDS_Ter_Ter</string>
+	</dict>
+	<key>BBa_I1468</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I1468</string>
+		<key>Tag1</key>
+		<string>activator</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_I15008</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I15008</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_I15009</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I15009</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_I15016</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I15016</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_I15017</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I15017</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_I715022</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I715022</string>
+		<key>Tag1</key>
+		<string>RFP Family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_I715032</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I715032</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_I716155</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I716155</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_I716210</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I716210</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>CDS </string>
+	</dict>
+	<key>BBa_I718011</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I718011</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_I718014</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I718014</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_I719005</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I719005</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>strong promoters</string>
+		<key>Tag3</key>
+		<string>Phage (T7)  promoters</string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_I722005</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I722005</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string>enzymes</string>
+		<key>Tag3</key>
+		<string>multiple products</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_rbs_cds_ter_ter_pro</string>
+	</dict>
+	<key>BBa_I731017</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I731017</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>negative signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_CDS_RBS_Reporter_Ter_Ter</string>
+	</dict>
+	<key>BBa_I732006</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I732006</string>
+		<key>Tag1</key>
+		<string>activator</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_I732017</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I732017</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_I732018</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I732018</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_I732020</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I732020</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_I732081</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I732081</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_I732082</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I732082</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>pro_rbs_cds</string>
+	</dict>
+	<key>BBa_I732085</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I732085</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_I732087</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I732087</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_I732100</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I732100</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_I732101</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I732101</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_I732105</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I732105</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_I732106</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I732106</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_I732107</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I732107</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_I732110</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I732110</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_I732112</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I732112</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_I732115</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I732115</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_I742107</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I742107</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_I742109</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I742109</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_I742111</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I742111</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_I742158</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I742158</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_I746001</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I746001</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>Generator_Ter_Ter</string>
+	</dict>
+	<key>BBa_I746008</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I746008</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>negative signal</string>
+		<key>structure</key>
+		<string>Pro_Generator_Ter_Ter</string>
+	</dict>
+	<key>BBa_I746101</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I746101</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>Generator_Ter_Ter</string>
+	</dict>
+	<key>BBa_I746103</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I746103</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>positive signal</string>
+		<key>structure</key>
+		<string>Generator_Ter_Ter_Pro</string>
+	</dict>
+	<key>BBa_I746104</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I746104</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>other inducible promoters</string>
+		<key>Tag3</key>
+		<string>bacterial promoters</string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_I746107</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I746107</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>positive signal</string>
+		<key>structure</key>
+		<string>Generator_Ter_Ter_Pro_RBS_CDS_Ter_Ter</string>
+	</dict>
+	<key>BBa_I746200</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I746200</string>
+		<key>Tag1</key>
+		<string>other product</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>CDS </string>
+	</dict>
+	<key>BBa_I746902</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I746902</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_I746907</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I746907</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_I746908</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I746908</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_I746909</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I746909</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_I751250</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I751250</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_I751350</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I751350</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_I763005</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I763005</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>pro_rbs_cds</string>
+	</dict>
+	<key>BBa_I9026</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_I9026</string>
+		<key>Tag1</key>
+		<string>other procudts</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_J06001</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_J06001</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>negative signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_CDS_Ter_Ter</string>
+	</dict>
+	<key>BBa_J06201</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_J06201</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>negative signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_CDS_Ter_Ter</string>
+	</dict>
+	<key>BBa_J06403</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_J06403</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>RhII/RhIR</string>
+		<key>Tag3</key>
+		<string>bacterial promoters</string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_J06650</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_J06650</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_J06800</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_J06800</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>LacI</string>
+		<key>structure</key>
+		<string>RBS_CDS_Ter_Ter_Pro</string>
+	</dict>
+	<key>BBa_J06801</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_J06801</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>LacI</string>
+		<key>structure</key>
+		<string>RBS_CDS_Ter_Ter_Pro</string>
+	</dict>
+	<key>BBa_J107030</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_J107030</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>TetR</string>
+		<key>structure</key>
+		<string>RBS_CDS_Ter_Ter_Pro</string>
+	</dict>
+	<key>BBa_J22101</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_J22101</string>
+		<key>Tag1</key>
+		<string>other product</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>CDS </string>
+	</dict>
+	<key>BBa_J23040</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_J23040</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>positive signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_CDS_Ter_Ter_Pro_RBS_CDS_Ter_Ter</string>
+	</dict>
+	<key>BBa_J23100</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_J23100</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>strong promoters</string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_J23101</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_J23101</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>strong promoters</string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_J23102</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_J23102</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>strong promoters</string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_J23103</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_J23103</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>weak promoters</string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_J23106</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_J23106</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>medium promoters</string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_J23112</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_J23112</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>weak promoters</string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_J23113</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_J23113</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>weak promoters</string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_J23114</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_J23114</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>weak promoters</string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_J23117</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_J23117</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>weak promoters</string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_J23118</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_J23118</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>strong promoters</string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_J23119</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_J23119</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>strong promoters</string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_J23150</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_J23150</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>medium promoters</string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_J24007</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_J24007</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>negative signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_CDS_RBS_Reporterter_Ter_Ter</string>
+	</dict>
+	<key>BBa_J24018</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_J24018</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>positive signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_CDS_Ter_Ter_Pro_RBS_CDS_Ter_Ter</string>
+	</dict>
+	<key>BBa_J24679</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_J24679</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_J33201</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_J33201</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>pro_rbs_cds</string>
+	</dict>
+	<key>BBa_J52011</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_J52011</string>
+		<key>Tag1</key>
+		<string>other reporter</string>
+		<key>Tag2</key>
+		<string>fusion protein</string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>cds_cds</string>
+	</dict>
+	<key>BBa_J52021</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_J52021</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string>fusion protein</string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>cds_cds</string>
+	</dict>
+	<key>BBa_K079015</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K079015</string>
+		<key>Tag1</key>
+		<string>other product</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>CDS </string>
+	</dict>
+	<key>BBa_K081007</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K081007</string>
+		<key>Tag1</key>
+		<string>other procudts</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K081008</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K081008</string>
+		<key>Tag1</key>
+		<string>other procudts</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K081009</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K081009</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K081010</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K081010</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>pro_rbs_cds</string>
+	</dict>
+	<key>BBa_K081011</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K081011</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>multiple regulators</string>
+		<key>structure</key>
+		<string>pro_rbs_cds</string>
+	</dict>
+	<key>BBa_K081012</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K081012</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>rbs_cds_ter</string>
+	</dict>
+	<key>BBa_K081014</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K081014</string>
+		<key>Tag1</key>
+		<string>RFP Family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>rbs_cds_ter</string>
+	</dict>
+	<key>BBa_K081015</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K081015</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>rbs_cds_ter</string>
+	</dict>
+	<key>BBa_K081016</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K081016</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>rbs_cds_ter</string>
+	</dict>
+	<key>BBa_K081017</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K081017</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K081018</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K081018</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_ter</string>
+	</dict>
+	<key>BBa_K081019</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K081019</string>
+		<key>Tag1</key>
+		<string>multiple regulators</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_ter</string>
+	</dict>
+	<key>BBa_K081020</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K081020</string>
+		<key>Tag1</key>
+		<string>multiple regulators</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds_rbs_cds</string>
+	</dict>
+	<key>BBa_K081021</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K081021</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>rbs_cds_ter</string>
+	</dict>
+	<key>BBa_K082003</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K082003</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_K082006</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K082006</string>
+		<key>Tag1</key>
+		<string>other product</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_K082009</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K082009</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K082010</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K082010</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K082020</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K082020</string>
+		<key>Tag1</key>
+		<string>multiple regulators</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_K082022</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K082022</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_K082029</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K082029</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_K082030</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K082030</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_K082034</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K082034</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_K082035</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K082035</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_K084007</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K084007</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>negative signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_CDS</string>
+	</dict>
+	<key>BBa_K084008</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K084008</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>negative signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_CDS</string>
+	</dict>
+	<key>BBa_K084012</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K084012</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>negative signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_CDS</string>
+	</dict>
+	<key>BBa_K086017</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K086017</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>IPTG</string>
+		<key>Tag3</key>
+		<string>bacterial promoters</string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_K088000</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K088000</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K091146</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K091146</string>
+		<key>Tag1</key>
+		<string>LuxR repressive promoter</string>
+		<key>Tag2</key>
+		<string>LasI/LasR</string>
+		<key>Tag3</key>
+		<string>bacterial promoters</string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_K091167</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K091167</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>sender only</string>
+		<key>structure</key>
+		<string>RBS_CDS_Ter_Ter</string>
+	</dict>
+	<key>BBa_K092000</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K092000</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>sender only</string>
+		<key>structure</key>
+		<string>RBS_CDS_Ter_Ter</string>
+	</dict>
+	<key>BBa_K112011</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K112011</string>
+		<key>Tag1</key>
+		<string>other procudts</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K112306</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K112306</string>
+		<key>Tag1</key>
+		<string>RFP Family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>PRO_RBS_CDS_TER_TER</string>
+	</dict>
+	<key>BBa_K112806</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K112806</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>CDS </string>
+	</dict>
+	<key>BBa_K116635</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K116635</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_K116636</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K116636</string>
+		<key>Tag1</key>
+		<string>multiple</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_K116638</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K116638</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_K116640</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K116640</string>
+		<key>Tag1</key>
+		<string>multiple</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_K117000</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K117000</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>CDS </string>
+	</dict>
+	<key>BBa_K118000</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K118000</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_K118001</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K118001</string>
+		<key>Tag1</key>
+		<string>activator</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_K118002</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K118002</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_K118003</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K118003</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_K118004</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K118004</string>
+		<key>Tag1</key>
+		<string>other procudts</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K118005</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K118005</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K118006</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K118006</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K118007</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K118007</string>
+		<key>Tag1</key>
+		<string>activator</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K118008</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K118008</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_K118015</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K118015</string>
+		<key>Tag1</key>
+		<string>other product</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>CDS </string>
+	</dict>
+	<key>BBa_K118016</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K118016</string>
+		<key>Tag1</key>
+		<string>other product</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>CDS </string>
+	</dict>
+	<key>BBa_K118017</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K118017</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K118018</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K118018</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K118019</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K118019</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>pro_rbs_cds_rbs_cds</string>
+	</dict>
+	<key>BBa_K118020</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K118020</string>
+		<key>Tag1</key>
+		<string>other reporter</string>
+		<key>Tag2</key>
+		<string>enzymes</string>
+		<key>Tag3</key>
+		<string>multiple products</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_rbs_cds</string>
+	</dict>
+	<key>BBa_K118022</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K118022</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_K118023</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K118023</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_K118028</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K118028</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_K123004</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K123004</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>negative signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_CDS</string>
+	</dict>
+	<key>BBa_K130000</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K130000</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K137001</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K137001</string>
+		<key>Tag1</key>
+		<string>other product</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>CDS </string>
+	</dict>
+	<key>BBa_K137018</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K137018</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>positive signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_CDS_Ter_Ter_Pro_RBS_CDS_Ter_Ter</string>
+	</dict>
+	<key>BBa_K137019</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K137019</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>multiple signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_CDS_Ter_Ter_Pro_RBS_CDS_Ter_Ter_Pro_RBS_CDS_Ter_Ter</string>
+	</dict>
+	<key>BBa_K143012</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K143012</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>strong promoters</string>
+		<key>Tag3</key>
+		<string>bacterial promoters</string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_K143053</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K143053</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>strong promoters</string>
+		<key>Tag3</key>
+		<string>bacterial promoters</string>
+		<key>structure</key>
+		<string>pro_rbs</string>
+	</dict>
+	<key>BBa_K145151</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K145151</string>
+		<key>Tag1</key>
+		<string>other product</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_K145201</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K145201</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_K145254</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K145254</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_K173005</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K173005</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>TetR</string>
+		<key>structure</key>
+		<string>RBS_CDS_Ter_Ter_Pro</string>
+	</dict>
+	<key>BBa_K175049</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K175049</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_K176006</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K176006</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_K190028</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K190028</string>
+		<key>Tag1</key>
+		<string>other product</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>CDS </string>
+	</dict>
+	<key>BBa_K193402</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K193402</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K195603</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K195603</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_K206004</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K206004</string>
+		<key>Tag1</key>
+		<string>RFP Family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_K206005</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K206005</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_ter</string>
+	</dict>
+	<key>BBa_K228238</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K228238</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_K228241</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K228241</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_K228803</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K228803</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K228809</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K228809</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K228813</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K228813</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>rbs_cds_ter</string>
+	</dict>
+	<key>BBa_K228814</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K228814</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>rbs_cds_ter</string>
+	</dict>
+	<key>BBa_K266002</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K266002</string>
+		<key>Tag1</key>
+		<string>activator</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>cds_ter_ter</string>
+	</dict>
+	<key>BBa_K274120</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K274120</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>multiple products</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_rbs_cds_rbs_cds</string>
+	</dict>
+	<key>BBa_K294055</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K294055</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>fusion protein</string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>cds_cds</string>
+	</dict>
+	<key>BBa_K299504</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K299504</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>strong promoters</string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>pro_rbs</string>
+	</dict>
+	<key>BBa_K314110</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K314110</string>
+		<key>Tag1</key>
+		<string>other procudts</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K325108</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K325108</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>pro_rbs_cds</string>
+	</dict>
+	<key>BBa_K325209</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K325209</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>multiple products</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_ter</string>
+	</dict>
+	<key>BBa_K325218</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K325218</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>pro_rbs_cds</string>
+	</dict>
+	<key>BBa_K325219</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K325219</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>multiple products</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_rbs_cds</string>
+	</dict>
+	<key>BBa_K325259</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K325259</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>multiple products</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_ter</string>
+	</dict>
+	<key>BBa_K325903</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K325903</string>
+		<key>Tag1</key>
+		<string>other product</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>multiple products</string>
+		<key>structure</key>
+		<string>rbs_cds_rbs_cds_ter</string>
+	</dict>
+	<key>BBa_K325909</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K325909</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>multiple products</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_ter</string>
+	</dict>
+	<key>BBa_K329005</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K329005</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K346000</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K346000</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K346004</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K346004</string>
+		<key>Tag1</key>
+		<string>other procudts</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K346083</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K346083</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K395602</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K395602</string>
+		<key>Tag1</key>
+		<string>other product</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_ter</string>
+	</dict>
+	<key>BBa_K411225</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K411225</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_K411226</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K411226</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_K516011</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K516011</string>
+		<key>Tag1</key>
+		<string>other procudts</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K517002</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K517002</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K517003</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K517003</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K517005</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K517005</string>
+		<key>Tag1</key>
+		<string>other procudts</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K523001</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K523001</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K523002</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K523002</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K525710</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K525710</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>CDS </string>
+	</dict>
+	<key>BBa_K538101</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K538101</string>
+		<key>Tag1</key>
+		<string>other procudts</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K538104</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K538104</string>
+		<key>Tag1</key>
+		<string>other procudts</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K542003</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K542003</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>TetR</string>
+		<key>structure</key>
+		<string>RBS_CDS_Ter_Ter_Pro</string>
+	</dict>
+	<key>BBa_K546000</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K546000</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>positive signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_CDS_Ter_Ter_Pro_RBS_CDS_Ter_Ter</string>
+	</dict>
+	<key>BBa_K546003</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K546003</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>positive signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_CDS_Ter_Ter_Pro</string>
+	</dict>
+	<key>BBa_K567013</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K567013</string>
+		<key>Tag1</key>
+		<string>tRNA</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K567015</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K567015</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>pro_rbs_cds</string>
+	</dict>
+	<key>BBa_K567016</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K567016</string>
+		<key>Tag1</key>
+		<string>tRNA</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>pro_rbs_cds</string>
+	</dict>
+	<key>BBa_K574004</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K574004</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>positive signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_CDS_Ter</string>
+	</dict>
+	<key>BBa_K574005</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K574005</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>positive signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_CDS_RBS_CDS_Ter_Ter</string>
+	</dict>
+	<key>BBa_K592009</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K592009</string>
+		<key>Tag1</key>
+		<string>other reporter</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_K592100</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K592100</string>
+		<key>Tag1</key>
+		<string>other reporter</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_K606013</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K606013</string>
+		<key>Tag1</key>
+		<string>RFP Family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_K606017</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K606017</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K629003</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K629003</string>
+		<key>Tag1</key>
+		<string>other product</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>CDS </string>
+	</dict>
+	<key>BBa_K629005</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K629005</string>
+		<key>Tag1</key>
+		<string>other product</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>CDS </string>
+	</dict>
+	<key>BBa_K741006</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K741006</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_K748002</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K748002</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>CDS </string>
+	</dict>
+	<key>BBa_K750000</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K750000</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>negative signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_Reporter_Ter_Ter</string>
+	</dict>
+	<key>BBa_K750009</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K750009</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>multiple signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_CDS_Ter_Ter_Pro_RBS_CDS_Ter_Ter_Pro_RBS_CDS_Ter_Ter</string>
+	</dict>
+	<key>BBa_K750010</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K750010</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>multiple signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_CDS_Ter_Ter_Pro_RBS_CDS_Ter_Ter_Pro_RBS_CDS_Ter_Ter</string>
+	</dict>
+	<key>BBa_K750012</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K750012</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>multiple signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_CDS_Ter_Ter_Pro_RBS_CDS_Ter_Ter_Pro_RBS_CDS_Ter_Ter</string>
+	</dict>
+	<key>BBa_K750103</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K750103</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>negative signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_Reporter_Ter_Ter</string>
+	</dict>
+	<key>BBa_K766001</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K766001</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>positive signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_CDS_Ter_Ter_Pro</string>
+	</dict>
+	<key>BBa_K773001</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K773001</string>
+		<key>Tag1</key>
+		<string>RFP Family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K773003</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K773003</string>
+		<key>Tag1</key>
+		<string>RFP Family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K773004</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K773004</string>
+		<key>Tag1</key>
+		<string>RFP Family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K777113</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K777113</string>
+		<key>Tag1</key>
+		<string>other product</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>CDS </string>
+	</dict>
+	<key>BBa_K777117</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K777117</string>
+		<key>Tag1</key>
+		<string>other product</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>CDS </string>
+	</dict>
+	<key>BBa_K808010</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K808010</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_K808025</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K808025</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_K823000</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K823000</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>weak promoters</string>
+		<key>Tag3</key>
+		<string>bacterial promoters</string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_K823002</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K823002</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>medium promoters</string>
+		<key>Tag3</key>
+		<string>bacterial promoters</string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_K823003</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K823003</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>medium promoters</string>
+		<key>Tag3</key>
+		<string>bacterial promoters</string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_K849000</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K849000</string>
+		<key>Tag1</key>
+		<string>other product</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_K849003</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K849003</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_K849004</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K849004</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_K863000</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K863000</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>pro_rbs_cds</string>
+	</dict>
+	<key>BBa_K863001</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K863001</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>pro_rbs_cds</string>
+	</dict>
+	<key>BBa_K863005</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K863005</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>pro_rbs_cds</string>
+	</dict>
+	<key>BBa_K863006</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K863006</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_K863010</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K863010</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>pro_rbs_cds</string>
+	</dict>
+	<key>BBa_K863011</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K863011</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_K863020</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K863020</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>pro_rbs_cds</string>
+	</dict>
+	<key>BBa_K863021</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K863021</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>CDS </string>
+	</dict>
+	<key>BBa_K864100</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K864100</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_K864201</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K864201</string>
+		<key>Tag1</key>
+		<string>other product</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_K864202</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K864202</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_K864203</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K864203</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_K864204</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K864204</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>CDS </string>
+	</dict>
+	<key>BBa_K864600</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K864600</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>bacterial terminators</string>
+		<key>Tag3</key>
+		<string>forward</string>
+		<key>structure</key>
+		<string>Ter</string>
+	</dict>
+	<key>BBa_K902059</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K902059</string>
+		<key>Tag1</key>
+		<string>enzymes</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_K907000</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K907000</string>
+		<key>Tag1</key>
+		<string>other product</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>CDS </string>
+	</dict>
+	<key>BBa_K909008</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K909008</string>
+		<key>Tag1</key>
+		<string>other product</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>CDS </string>
+	</dict>
+	<key>BBa_K909009</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K909009</string>
+		<key>Tag1</key>
+		<string>other product</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>CDS </string>
+	</dict>
+	<key>BBa_K953002</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_K953002</string>
+		<key>Tag1</key>
+		<string>other procudts</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_P0140</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_P0140</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_P0151</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_P0151</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_P0152</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_P0152</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_P0153</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_P0153</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_P0312</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_P0312</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_P0340</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_P0340</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_P0353</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_P0353</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_P0412</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_P0412</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_P0440</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_P0440</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_P0451</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_P0451</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_P0453</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_P0453</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_P1004</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_P1004</string>
+		<key>Tag1</key>
+		<string>selection marker</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>pro_rbs_cds</string>
+	</dict>
+	<key>BBa_P1005</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_P1005</string>
+		<key>Tag1</key>
+		<string>selection marker</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>pro_rbs_cds</string>
+	</dict>
+	<key>BBa_P1010</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_P1010</string>
+		<key>Tag1</key>
+		<string>other product</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cds only</string>
+		<key>structure</key>
+		<string>cds</string>
+	</dict>
+	<key>BBa_Q01121</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_Q01121</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>LacI</string>
+		<key>structure</key>
+		<string>RBS_CDS_Ter_Ter_Pro</string>
+	</dict>
+	<key>BBa_Q01400</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_Q01400</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>TetR</string>
+		<key>structure</key>
+		<string>RBS_CDS_Ter_Ter_Pro</string>
+	</dict>
+	<key>BBa_Q01511</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_Q01511</string>
+		<key>Tag1</key>
+		<string>Composite</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cl lam</string>
+		<key>structure</key>
+		<string>RBS_CDS_Ter_Ter_Pro</string>
+	</dict>
+	<key>BBa_Q01530</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_Q01530</string>
+		<key>Tag1</key>
+		<string>Composite</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>c2 p22</string>
+		<key>structure</key>
+		<string>RBS_CDS_Ter_Ter_Pro</string>
+	</dict>
+	<key>BBa_Q03121</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_Q03121</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>LacI</string>
+		<key>structure</key>
+		<string>RBS_CDS_Ter_Ter_Pro</string>
+	</dict>
+	<key>BBa_Q03400</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_Q03400</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>TetR</string>
+		<key>structure</key>
+		<string>RBS_CDS_Ter_Ter_Pro</string>
+	</dict>
+	<key>BBa_Q03530</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_Q03530</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>c2 p22</string>
+		<key>structure</key>
+		<string>RBS_CDS_Ter_Ter_Pro</string>
+	</dict>
+	<key>BBa_Q04121</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_Q04121</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>LacI</string>
+		<key>structure</key>
+		<string>RBS_CDS_Ter_Ter_Pro</string>
+	</dict>
+	<key>BBa_Q04400</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_Q04400</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>TetR</string>
+		<key>structure</key>
+		<string>RBS_CDS_Ter_Ter_Pro</string>
+	</dict>
+	<key>BBa_Q04510</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_Q04510</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cl lam</string>
+		<key>structure</key>
+		<string>RBS_CDS_Ter_Ter_Pro</string>
+	</dict>
+	<key>BBa_Q04511</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_Q04511</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cl lam</string>
+		<key>structure</key>
+		<string>RBS_CDS_Ter_Ter_Pro</string>
+	</dict>
+	<key>BBa_Q04520</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_Q04520</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>cl lam</string>
+		<key>structure</key>
+		<string>RBS_CDS_Ter_Ter_Pro</string>
+	</dict>
+	<key>BBa_Q04530</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_Q04530</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>c2 p22</string>
+		<key>structure</key>
+		<string>RBS_CDS_Ter_Ter_Pro</string>
+	</dict>
+	<key>BBa_R0061</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_R0061</string>
+		<key>Tag1</key>
+		<string>LuxR repressive promoter</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>bacterial promoters</string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_R0062</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_R0062</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>LasI/LasR</string>
+		<key>Tag3</key>
+		<string>bacterial promoters</string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_R0063</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_R0063</string>
+		<key>Tag1</key>
+		<string>LuxR repressive promoter</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>bacterial promoters</string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_R0071</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_R0071</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>RhII/RhIR</string>
+		<key>Tag3</key>
+		<string>bacterial promoters</string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_R0078</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_R0078</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>other inducible promoters</string>
+		<key>Tag3</key>
+		<string>bacterial promoters</string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_R0079</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_R0079</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>LasI/LasR</string>
+		<key>Tag3</key>
+		<string>bacterial promoters</string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_R0085</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_R0085</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>strong promoters</string>
+		<key>Tag3</key>
+		<string>Phage (T7)  promoters</string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_R1062</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_R1062</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string>LasI/LasR</string>
+		<key>Tag3</key>
+		<string>bacterial promoters</string>
+		<key>structure</key>
+		<string>pro</string>
+	</dict>
+	<key>BBa_S04301</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_S04301</string>
+		<key>Tag1</key>
+		<string>activator</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>cds_ter_ter</string>
+	</dict>
+	<key>BBa_S04602</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_S04602</string>
+		<key>Tag1</key>
+		<string>activator</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_S04603</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_S04603</string>
+		<key>Tag1</key>
+		<string>repressor</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>rbs_cds</string>
+	</dict>
+	<key>BBa_S04605</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_S04605</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>multiple products</string>
+		<key>structure</key>
+		<string>rbs_cds_rbs_cds_ter_ter</string>
+	</dict>
+	<key>BBa_T9002</key>
+	<dict>
+		<key>ID</key>
+		<string>BBa_T9002</string>
+		<key>Tag1</key>
+		<string></string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>positive signal</string>
+		<key>structure</key>
+		<string>Pro_RBS_CDS_Ter_Ter_Pro_RBS_CDS_Ter_Ter</string>
+	</dict>
+	<key>Bba_ K176017</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_ K176017</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>PRO_RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_ K193000</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_ K193000</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>PRO_RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_ K195610</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_ K195610</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>PRO_RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_ K195612</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_ K195612</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>PRO_RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_ K195615</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_ K195615</string>
+		<key>Tag1</key>
+		<string>RFP Family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>PRO_RBS_CDS</string>
+	</dict>
+	<key>Bba_ K199051</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_ K199051</string>
+		<key>Tag1</key>
+		<string>RFP Family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>RBS_REP_TER_TER</string>
+	</dict>
+	<key>Bba_E0240</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_E0240</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_E0420</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_E0420</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>RBS_REP_TER_TER</string>
+	</dict>
+	<key>Bba_E0422</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_E0422</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>RBS_REP_TER_TER</string>
+	</dict>
+	<key>Bba_E0430</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_E0430</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_E0432</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_E0432</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_E0435</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_E0435</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>CDS_TER</string>
+	</dict>
+	<key>Bba_E0840</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_E0840</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_I13001</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_I13001</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_I13002</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_I13002</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_I13003</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_I13003</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_I13401</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_I13401</string>
+		<key>Tag1</key>
+		<string>RFP Family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>CDS_TER</string>
+	</dict>
+	<key>Bba_I13501</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_I13501</string>
+		<key>Tag1</key>
+		<string>RFP Family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>multiple products</string>
+		<key>structure</key>
+		<string>RBS_CDS_RBS_CDS</string>
+	</dict>
+	<key>Bba_I13504</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_I13504</string>
+		<key>Tag1</key>
+		<string>RFP Family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>EBS_REP_TER_TER</string>
+	</dict>
+	<key>Bba_I13521</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_I13521</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>PRO_RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_I13522</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_I13522</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>PRO_RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_I13600</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_I13600</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>PRO_RBS_ERP_TER_TER</string>
+	</dict>
+	<key>Bba_I13602</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_I13602</string>
+		<key>Tag1</key>
+		<string>RFP Family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>PRO_RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_I13604</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_I13604</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>multiple products</string>
+		<key>structure</key>
+		<string>PRO_RBS_CDS_TER_TER_PRO_RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_I13605</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_I13605</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string>robust device</string>
+		<key>Tag3</key>
+		<string>multiple products</string>
+		<key>structure</key>
+		<string>GER_ERP</string>
+	</dict>
+	<key>Bba_I15015</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_I15015</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>multiple products</string>
+		<key>structure</key>
+		<string>RBS_CDS_RBS_CDS</string>
+	</dict>
+	<key>Bba_I15018</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_I15018</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>RBS_REP_TER_TER</string>
+	</dict>
+	<key>Bba_I715039</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_I715039</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string>RFP Family</string>
+		<key>Tag3</key>
+		<string>multiple products</string>
+		<key>structure</key>
+		<string>PRO_RBS_CDS_RBS_CDS</string>
+	</dict>
+	<key>Bba_I715040</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_I715040</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>ADA_RBS_CDS_RBS_REP_TER_TER</string>
+	</dict>
+	<key>Bba_I732077</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_I732077</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein protein generator</string>
+		<key>structure</key>
+		<string>RBS_REP_TER_TER</string>
+	</dict>
+	<key>Bba_I732094</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_I732094</string>
+		<key>Tag1</key>
+		<string>RFP Family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>multiple products</string>
+		<key>structure</key>
+		<string>ADA_RBS_CDS_RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_I732095</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_I732095</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>multiple products</string>
+		<key>structure</key>
+		<string>ADA_RBS_CDS_RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_I732096</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_I732096</string>
+		<key>Tag1</key>
+		<string>RFP Family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>ADA_RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_I732097</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_I732097</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>PRO_RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_I739009</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_I739009</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>PRO_RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_I746105</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_I746105</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>PRO_RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_I746320</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_I746320</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>PRO_RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_I746324</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_I746324</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>PRO_RBS_REP_TER_TER</string>
+	</dict>
+	<key>Bba_I763007</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_I763007</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>PRO_RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_I763011</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_I763011</string>
+		<key>Tag1</key>
+		<string>RFP Family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>PRO_RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_I763033</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_I763033</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>CDS_TER_TER</string>
+	</dict>
+	<key>Bba_J04421</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_J04421</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>PRO_RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_J04430</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_J04430</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>PRO_RBS_ERP_TER_TER</string>
+	</dict>
+	<key>Bba_J04630</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_J04630</string>
+		<key>Tag1</key>
+		<string>RFP Family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>CDS_TER_TER</string>
+	</dict>
+	<key>Bba_J04650</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_J04650</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>PRO_PRO_RBS_REP_TER_TER</string>
+	</dict>
+	<key>Bba_J06702</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_J06702</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>multiple products</string>
+		<key>structure</key>
+		<string>PRO_RBS_CDS_TER_TER_PRO_RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_J33203</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_J33203</string>
+		<key>Tag1</key>
+		<string>RFP Family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>transcriptional units</string>
+		<key>structure</key>
+		<string>RBS_CDS</string>
+	</dict>
+	<key>Bba_J69501</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_J69501</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>PRO_RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_K079050</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_K079050</string>
+		<key>Tag1</key>
+		<string>RFP Family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_K092300</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_K092300</string>
+		<key>Tag1</key>
+		<string>RFP Family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>PRO_RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_K093005</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_K093005</string>
+		<key>Tag1</key>
+		<string>RFP Family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string></string>
+		<key>structure</key>
+		<string>PRO_RBS_CDS</string>
+	</dict>
+	<key>Bba_K094130</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_K094130</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>PRO_RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_K117008</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_K117008</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>PRO_RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_K121010</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_K121010</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>PRO_RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_K249000</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_K249000</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>PRO_RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_K339014</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_K339014</string>
+		<key>Tag1</key>
+		<string>RFP Family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>PRO_RBS_ERP_TER_TER</string>
+	</dict>
+	<key>Bba_K411235</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_K411235</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>PRO_RBS_ERP_TER_TER</string>
+	</dict>
+	<key>Bba_K411236</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_K411236</string>
+		<key>Tag1</key>
+		<string>multiple regulators</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>PRO_RBS_CDS_TER_TER_PRO_RBS_REP_TER_TER</string>
+	</dict>
+	<key>Bba_S03335</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_S03335</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>PRO_RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_S03336</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_S03336</string>
+		<key>Tag1</key>
+		<string>RFP Family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>PRO_RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_S03473</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_S03473</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>PRO_RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_S03476</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_S03476</string>
+		<key>Tag1</key>
+		<string>GFP family</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>protein generator</string>
+		<key>structure</key>
+		<string>RBS_CDS_TER_TER</string>
+	</dict>
+	<key>Bba_T9003</key>
+	<dict>
+		<key>ID</key>
+		<string>Bba_T9003</string>
+		<key>Tag1</key>
+		<string>multiple regulators</string>
+		<key>Tag2</key>
+		<string></string>
+		<key>Tag3</key>
+		<string>robust device</string>
+		<key>structure</key>
+		<string>pro_rbs_cds_ter_ter_pro_rbs_cds_ter_ter</string>
+	</dict>
+</dict>
+</plist>

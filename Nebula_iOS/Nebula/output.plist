@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A</key>
+	<array>
+		<string>amilCP</string>
+		<string>appY</string>
+		<string>ARL2A0101</string>
+		<string>ARL2A0102</string>
+		<string>ARL2A0103</string>
+		<string>ARL2A0203</string>
+		<string>ARL2A0301</string>
+		<string>ARL4A0604</string>
+		<string>araC&amp;LVA</string>
+		<string>aiiA</string>
+		<string>aiiA-LVA</string>
+		<string>AspA</string>
+		<string>arsZ/lacZ</string>
+		<string>araC</string>
+		<string>ADP-glucose pyrophosphorylase</string>
+		<string>Apple fragrance</string>
+		<string>alpha-pinene synthase</string>
+	</array>
+	<key>B</key>
+	<array>
+		<string>bifunctional Cyclase</string>
+		<string>bglX</string>
+		<string>bpul laccase</string>
+		<string>bhal laccase</string>
+		<string>BamHI</string>
+		<string>Bxb1_int</string>
+		<string>beta-pinene synthase</string>
+		<string>biliverdin</string>
+	</array>
+	<key>C</key>
+	<array>
+		<string>cI HK022&amp;LVA</string>
+		<string>cI lambda&amp;LVA</string>
+		<string>cI434&amp;LVA</string>
+		<string>C2 P22&amp;LVA</string>
+		<string>CI TP901&amp;LVA</string>
+		<string>CI434</string>
+		<string>ccdB</string>
+		<string>cinI</string>
+		<string>crtB</string>
+		<string>crtI</string>
+		<string>crtY</string>
+		<string>COMT</string>
+		<string>cex</string>
+		<string>cenA</string>
+		<string>cl lambda</string>
+		<string>CheZ </string>
+		<string>CheB</string>
+		<string>cinR</string>
+		<string>chloramphenicol acetyl transferase</string>
+		<string>cI</string>
+		<string>crtE&amp;crtB&amp;crtI</string>
+		<string>cI lambd&amp;lasR</string>
+		<string>cI Iambd</string>
+		<string>crtZ</string>
+		<string>Cpn60</string>
+		<string>CspC</string>
+	</array>
+	<key>D</key>
+	<array>
+		<string>dnTraf6-linker-GFP</string>
+		<string>dnMyD88-linker-Rluc</string>
+		<string>dxs</string>
+		<string>dapA</string>
+	</array>
+	<key>E</key>
+	<array>
+		<string>EYFP</string>
+		<string>ECFP</string>
+		<string>ent-Kaurene Oxidase</string>
+		<string>ecol laccase</string>
+		<string>EYFP/ECFP</string>
+	</array>
+	<key>F</key>
+	<array>
+		<string>FsC</string>
+		<string>FepA L8T Mutant</string>
+		<string>f1 origin</string>
+		<string>FPP&amp;GPP</string>
+	</array>
+	<key>G</key>
+	<array>
+		<string>GFP with degradation LVA</string>
+		<string>GFP with degradation LVA</string>
+		<string>GFP RFP Hybrid</string>
+		<string>GFP RFP Hybrid</string>
+		<string>glgC</string>
+		<string>glgC</string>
+		<string>glgC16</string>
+		<string>glgC16</string>
+		<string>glgC with G336D substitution</string>
+		<string>glgC with G336D substitution</string>
+		<string>GlpF</string>
+		<string>GFP</string>
+		<string>GFP </string>
+		<string>GFP </string>
+	</array>
+	<key>H</key>
+	<array>
+		<string>HMG-CoA-R</string>
+		<string>ho1</string>
+		<string>hemD</string>
+	</array>
+	<key>K</key>
+	<array>
+		<string>Kanamycin</string>
+		<string>katG</string>
+	</array>
+	<key>L</key>
+	<array>
+		<string>lacZ-alpha</string>
+		<string>lasR&amp;LVA</string>
+		<string>lasR</string>
+		<string>LuxR-G2F</string>
+		<string>lacIq reverse</string>
+		<string>LacI</string>
+		<string>LRLa</string>
+		<string>LexA SOS</string>
+		<string>LexA3</string>
+		<string>LuxR</string>
+		<string>luxI-LVA</string>
+		<string>lasI&amp;LVA</string>
+		<string>luxI</string>
+		<string>LasI</string>
+		<string>LigA&amp;His</string>
+		<string>LacY</string>
+		<string>Lysis</string>
+		<string>Lysostaphin</string>
+		<string>lambda holin</string>
+		<string>luxR </string>
+		<string>LIMS1</string>
+		<string>luxI </string>
+	</array>
+	<key>M</key>
+	<array>
+		<string>mRFP1</string>
+		<string>mTagBFP</string>
+		<string>mnt(w)</string>
+		<string>mnt(s)</string>
+		<string>MalE.FactorXa.Zif268-GCN4</string>
+		<string>MarR(G95S)</string>
+		<string>motA</string>
+		<string>motB</string>
+		<string>mRFP</string>
+		<string>mRFP/GFP</string>
+		<string>mbp</string>
+		<string>malS</string>
+		<string>mCHenry</string>
+		<string>mCHenry-LVA</string>
+		<string>mCHenry-AAV</string>
+	</array>
+	<key>O</key>
+	<array>
+		<string>OmpF</string>
+		<string>Orange Firefly Luciferase</string>
+	</array>
+	<key>P</key>
+	<array>
+		<string>penl&amp;LVA</string>
+		<string>PcyA</string>
+	</array>
+	<key>R</key>
+	<array>
+		<string>RFP</string>
+		<string>rhlR-LVA</string>
+		<string>RhlR</string>
+		<string>rhlI-LVA</string>
+		<string>RhlI</string>
+		<string>Red Firefly Luciferase</string>
+		<string>rbs.T4 antiholin</string>
+	</array>
+	<key>S</key>
+	<array>
+		<string>SYFP2</string>
+		<string>sinR&amp;LVA</string>
+		<string>srID ORF</string>
+	</array>
+	<key>T</key>
+	<array>
+		<string>tetR&amp;LVA</string>
+		<string>tphB</string>
+		<string>tthl laccase</string>
+		<string>tar-envZ</string>
+		<string>TrkD</string>
+		<string>T4 endolysin</string>
+		<string>tetR</string>
+		<string>tetracycline resistance protein</string>
+		<string>t3 pol</string>
+		<string>T7pol</string>
+		<string>tetR&amp;GFP</string>
+	</array>
+	<key>X</key>
+	<array>
+		<string>Xis p22</string>
+	</array>
+	<key>Z</key>
+	<array>
+		<string>Zif23-GCN4&amp;LVA</string>
+	</array>
+</dict>
+</plist>
